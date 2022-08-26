@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885179913148",
+    "firebase_url": "https://easicom-97aab-default-rtdb.firebaseio.com",
+    "project_id": "easicom-97aab",
+    "storage_bucket": "easicom-97aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885179913148:android:ed5ae6777eedf2529991b9",
+        "android_client_info": {
+          "package_name": "com.example.easicom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885179913148-mltvnsl1iccppf13aipe4u6i6svh790h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easicom",
+            "certificate_hash": "198fc06c5d3241946d372e39a7e42d8430bbb431"
+          }
+        },
+        {
+          "client_id": "885179913148-fkihrqmfdai9m75t03hg421bc7rue13r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtZHZsvf3g0sh3be_MSkHJKEOZhOLsE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885179913148-fkihrqmfdai9m75t03hg421bc7rue13r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

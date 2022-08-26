@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/fragment_calls.xml",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_calls.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/chat_screen.xml",
+        "source": "com.example.easicom.app-main-34:/layout/chat_screen.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/fragment_chat.xml",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/activity_setting.xml",
+        "source": "com.example.easicom.app-main-34:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/outgoing_rv.xml",
+        "source": "com.example.easicom.app-main-34:/layout/outgoing_rv.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/activity_chat_detailed.xml",
+        "source": "com.example.easicom.app-main-34:/layout/activity_chat_detailed.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/activity_sign_up.xml",
+        "source": "com.example.easicom.app-main-34:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.easicom.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/activity_sign_in.xml",
+        "source": "com.example.easicom.app-main-34:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/fragment_status.xml",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_status.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-mergeDebugResources-31:/layout/incoming_rv.xml",
+        "source": "com.example.easicom.app-main-34:/layout/incoming_rv.xml"
+    }
+]

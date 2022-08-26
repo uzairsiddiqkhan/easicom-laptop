@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_facebookview.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/facebookview.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_fragment_calls.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_calls.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.easicom.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.easicom.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable-v24_useravatarsmall.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable-v24/useravatarsmall.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_options.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/options.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_about.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/about.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_outgoing_rv.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/outgoing_rv.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_google.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/google.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_setting_bg.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/setting_bg.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_invite.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/invite.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_chat_screen.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/chat_screen.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_bell.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/bell.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_googlelogo.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/googlelogo.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_vcame.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/vcame.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_plus.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/menu_menu.xml.flat",
+        "source": "com.example.easicom.app-main-34:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_arrow.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/arrow.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_button.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_chat.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/chat.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_incoming_rv.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/incoming_rv.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_search.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/search.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_activity_setting.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable-v24_useravatarlarge.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable-v24/useravatarlarge.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_facebooklogo.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/facebooklogo.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_fragment_chat.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_video.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/video.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_question.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/question.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_padlock.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/padlock.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_call.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/call.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_send.png.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/send.png"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_outgoing_chatbubble.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/outgoing_chatbubble.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.easicom.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_save_button_bg.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/save_button_bg.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_textview.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/textview.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_message_box.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/message_box.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.easicom.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_activity_chat_detailed.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/activity_chat_detailed.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/drawable_incoming_chatbubble.xml.flat",
+        "source": "com.example.easicom.app-main-34:/drawable/incoming_chatbubble.xml"
+    },
+    {
+        "merged": "com.example.easicom.app-merged_res-32:/layout_fragment_status.xml.flat",
+        "source": "com.example.easicom.app-main-34:/layout/fragment_status.xml"
+    }
+]
