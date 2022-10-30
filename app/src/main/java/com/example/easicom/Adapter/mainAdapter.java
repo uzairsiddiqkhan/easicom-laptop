@@ -80,7 +80,6 @@ public class mainAdapter extends RecyclerView.Adapter<mainAdapter.viewHolder> {
 
 
                 context.startActivity(intent);
-
                 Intent intent1=new Intent(context,chatAdapter.class);
                 intent.putExtra("friendId", u.getUserId());
                 context.startActivity(intent1);
